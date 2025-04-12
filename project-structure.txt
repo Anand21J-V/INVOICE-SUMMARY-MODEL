@@ -1,0 +1,15 @@
+invoice-bot/
+│
+├── app2.py                        # 🚀 Main Streamlit app
+├── requirements.txt              # 📦 All dependencies with versions
+├── project-structure.txt         # 📄 Describes the file layout
+│
+├── experimentation/              # 🧪 Jupyter notebooks for testing ideas
+│   ├── exp1.ipynb
+│   └── exp2.ipynb
+│
+└── src/                          # 🧠 Core logic and helper modules
+    ├── __init__.py               # Makes this folder a package
+    ├── helper.py                 # OCR/image handling functions
+    ├── prompt.py                 # Prompt templates for Groq/LLM
+    └── trial.py                  # Any extra logic or experiments
