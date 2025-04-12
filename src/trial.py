@@ -5,7 +5,7 @@ import magic
 
 from groq import Groq
 
-client = Groq(api_key="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")
+client = Groq(api_key="xxxx")
 
 
 # Initialize Groq client
